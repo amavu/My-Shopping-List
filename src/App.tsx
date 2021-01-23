@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { parseJsonSourceFileConfigFileContent } from "typescript";
 import "./App.css";
 
 function App() {
