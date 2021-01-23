@@ -58,7 +58,7 @@ function App() {
       <form onSubmit={submitHandler}>
         <input
           value={value}
-          placeholder="legg til i handlelista"
+          placeholder="add item"
           onChange={(event) => {
             setValue(event.target.value);
           }}
