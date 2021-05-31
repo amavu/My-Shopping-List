@@ -63,7 +63,7 @@ function App() {
             setValue(event.target.value);
           }}
         ></input>
-        <button type="submit">Add to do</button>
+        <button type="submit">Add item</button>
       </form>
       <ToDoList />
     </div>
